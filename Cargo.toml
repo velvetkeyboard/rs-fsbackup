@@ -1,0 +1,10 @@
+[package]
+name = "fsbackup"
+version = "0.1.0"
+authors = ["velvetkeyboard"]
+
+[dependencies]
+shellexpand = "1.0"
+yaml-rust = "0.4.3"
+rusoto_core = "0.40.0"
+rusoto_s3 = "0.40.0"
