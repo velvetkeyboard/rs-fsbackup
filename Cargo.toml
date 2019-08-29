@@ -5,6 +5,7 @@ authors = ["velvetkeyboard"]
 
 [dependencies]
 shellexpand = "1.0"
+walkdir = "2"
 yaml-rust = "0.4.3"
 rusoto_core = "0.40.0"
 rusoto_s3 = "0.40.0"
